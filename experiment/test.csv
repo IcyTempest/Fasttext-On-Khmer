@@ -1,0 +1,19 @@
+Question,Intent
+what are you doing ?,AskDoing
+what have you been doing ?,AskDoing
+what have you been doing all day ?,AskDoing
+doing ?,AskDoing
+what cha doing ?,AskDoing
+what is up ?,AskDoing
+sup ?,AskDoing
+
+where you going ?,AskGoing
+where you go ?,AskGoing
+where he goes ?,AskGoing
+where are they going ?,AskGoing
+where have you been ?,AskGoing
+where do we go ?,AskGoing
+where are we going ?,AskGoing
+why are we going this way ?,AskGoing
+where we go ?,AskGoing
+why have we gone this way ?,AskGoing

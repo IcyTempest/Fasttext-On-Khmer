@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab0a7aad-9c8c-4f55-9ead-8bf010a2c8e4" name="Changes" comment="" />
+    <list default="true" id="ab0a7aad-9c8c-4f55-9ead-8bf010a2c8e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/experiment/main.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/experiment/test2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fasttext_model.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fasttext_model.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all_segment_dataset.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/original_data/all_segment_dataset.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin1.bin" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/bin1.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cooking.stackexchange.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/original_data/data_file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/limit_200_segment_sentences.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/original_data/limit_200_segment_sentences.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/original_data/test_file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/original_data/train_file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/limit_200_segment_sentences.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -20,7 +47,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/USER/Documents/Codes/Data Science/Python/machine_learning/fasttext_model/data"
+    "last_opened_file_path": "/home/icyfrost/Documents/Codes/Data Science/Pythons",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -29,6 +57,8 @@
       <recent name="C:\Users\USER\Documents\Codes\Data Science\Python\machine_learning\fasttext_model" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/guidance" />
+      <recent name="$PROJECT_DIR$/experiment" />
       <recent name="C:\Users\USER\Documents\Codes\Data Science\Python\machine_learning\fasttext_model" />
       <recent name="C:\Users\USER\Documents\Codes\Data Science\Python\machine_learning\fasttext_model\data" />
     </key>
@@ -43,10 +73,27 @@
       <updated>1667291078912</updated>
       <workItem from="1667291080308" duration="39000" />
       <workItem from="1667628022659" duration="9116000" />
+      <workItem from="1667809308763" duration="746000" />
+      <workItem from="1668431243362" duration="3412000" />
+      <workItem from="1668481797468" duration="638000" />
+      <workItem from="1668497578130" duration="19000" />
+      <workItem from="1668523440555" duration="34000" />
+      <workItem from="1668658576946" duration="575000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
